@@ -1,0 +1,24 @@
+{
+    "name": "pelock/yii2-anti-spam-form",
+    "version": "1.0.0",
+    "description": "Anti-Spam Form is a form replacement component for the Yii2 Framework for creating anti-spam forms that are invisible in HTML code to spam bots & harvesting tools.",
+    "type": "yii2-extension",
+    "keywords": ["antispam", "spam", "anti-spam", "yii2", "form"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Bartosz Wójcik",
+            "email": "support@pelock.com",
+            "homepage": "https://www.pelock.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": ">=2.0.4"
+    },
+    "autoload": {
+            "psr-4": {
+                    "PELock\\AntiSpamForm\\": "src/"
+            }
+    }
+}
