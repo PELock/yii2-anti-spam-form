@@ -196,4 +196,8 @@ No. You should leave your `CAPTCHA` verifications in place, because some bots ar
 
 Hope you like it. For questions, bug & feature requests visit my site:
 
-Bartosz Wójcik | https://www.pelock.com
+Bartosz Wójcik
+
+* Visit my site at — https://www.pelock.com
+* Twitter — https://twitter.com/PELock
+* GitHub — https://github.com/PELock
